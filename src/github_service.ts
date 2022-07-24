@@ -21,7 +21,9 @@ const updateContent: (path: string, content: string) => Promise<void> = async (
       },
     })) as any;
     const prevData = getRes.data;
-    const base64Content = Buffer.from(content, "binary").toString("base64");
+    const base64Content = Buffer.from(encodeURIComponent(content)).toString(
+      "base64"
+    );
     const file = path.split("/").reverse()[0];
     await axios({
       method: "put",
