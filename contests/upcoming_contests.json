@@ -1,0 +1,382 @@
+[
+  {
+    "title": "Akamai Edge Hackathon 2022",
+    "desc": "url: https://hackerrank.com/contests/akamai-coding-contest",
+    "location": "hackerrank.com",
+    "time": {
+      "start": "July 30, 2022 03:30:00",
+      "end": "July 30, 2022 11:30:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "CodeRoyale - 2022 [ai]. Final round",
+    "desc": "url: https://cups.online/rounds/719",
+    "location": "cups.online",
+    "time": {
+      "start": "July 29, 2022 21:00:00",
+      "end": "July 31, 2022 20:59:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "July 2022 Prime Time Coding Challenge - Competitive Programming. Rated",
+    "desc": "url: https://mycode.prepbytes.com/contest/PRIMETIMEJUL22",
+    "location": "mycode.prepbytes.com",
+    "time": {
+      "start": "July 29, 2022 16:00:00",
+      "end": "July 29, 2022 18:30:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Newton's coding challenge July 2022",
+    "desc": "url: https://my.newtonschool.co/course/wxug4046azih/assignment/wf2d879rtxh5/dashboard/",
+    "location": "my.newtonschool.co",
+    "time": {
+      "start": "July 29, 2022 15:30:00",
+      "end": "July 29, 2022 18:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Criterion 2022 Round 18",
+    "desc": "url: https://toph.co/c/criterion-2022-round-18",
+    "location": "toph.co",
+    "time": {
+      "start": "July 29, 2022 15:00:00",
+      "end": "July 29, 2022 17:30:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "yukicoder score contest 2",
+    "desc": "url: https://yukicoder.me/contests/396",
+    "location": "yukicoder.me",
+    "time": {
+      "start": "July 30, 2022 05:00:00",
+      "end": "July 30, 2022 09:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "yukicoder contest （オムニバス　★３以下出題募集中）",
+    "desc": "url: https://yukicoder.me/contests/394",
+    "location": "yukicoder.me",
+    "time": {
+      "start": "July 29, 2022 12:20:00",
+      "end": "July 29, 2022 14:20:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Edology #GetSkilledGetHired Hackathon. Competitive",
+    "desc": "url: https://www.hackerearth.com/challenges/competitive/edology-admission-hackathon/",
+    "location": "hackerearth.com",
+    "time": {
+      "start": "July 29, 2022 12:30:00",
+      "end": "August 07, 2022 18:25:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Zoho Creator Build an App Challenge. Hackathon. Prototype Submission Phase. Online",
+    "desc": "url: https://www.hackerearth.com/challenges/hackathon/zoho-creator-build-an-app-challenge/",
+    "location": "hackerearth.com",
+    "time": {
+      "start": "July 28, 2022 18:30:00",
+      "end": "August 28, 2022 18:29:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "IEM Coding Olympiad (IEMCO10)",
+    "desc": "url: https://www.codechef.com/IEMC2022",
+    "location": "codechef.com",
+    "time": {
+      "start": "July 29, 2022 14:30:00",
+      "end": "July 29, 2022 17:30:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Starters 49",
+    "desc": "url: https://www.codechef.com/START49",
+    "location": "codechef.com",
+    "time": {
+      "start": "July 27, 2022 14:30:00",
+      "end": "July 27, 2022 17:30:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "TCO22 Algorithm Round 4",
+    "desc": "url: https://topcoder.com/community/events/",
+    "location": "topcoder.com",
+    "time": {
+      "start": "July 30, 2022 16:00:00",
+      "end": "July 30, 2022 18:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "SRM 834",
+    "desc": "url: https://topcoder.com/community/events/",
+    "location": "topcoder.com",
+    "time": {
+      "start": "July 27, 2022 01:00:00",
+      "end": "July 27, 2022 03:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "RUT - Robocontest United Team Round #2",
+    "desc": "url: https://robocontest.uz/olympiads/158",
+    "location": "robocontest.uz",
+    "time": {
+      "start": "July 26, 2022 17:00:00",
+      "end": "July 26, 2022 20:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Scholarship Test 27 - 28th July 2022",
+    "desc": "url: https://www.codingninjas.com/codestudio/contests/scholarship-test-27-28th-july-2022",
+    "location": "codingninjas.com/codestudio",
+    "time": {
+      "start": "July 27, 2022 14:30:00",
+      "end": "July 28, 2022 17:30:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Codestudio Beginner Contest 13",
+    "desc": "url: https://www.codingninjas.com/codestudio/contests/codestudio-beginner-contest-13",
+    "location": "codingninjas.com/codestudio",
+    "time": {
+      "start": "July 26, 2022 15:30:00",
+      "end": "July 26, 2022 17:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "LinkedList Contest 1 by Mohammad Fraz",
+    "desc": "url: https://www.codingninjas.com/codestudio/contests/linkedlist-contest-1-by-mohammad-fraz",
+    "location": "codingninjas.com/codestudio",
+    "time": {
+      "start": "July 25, 2022 15:30:00",
+      "end": "July 25, 2022 17:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "desc": "url: http://codeforces.com/contests/1704",
+    "location": "codeforces.com",
+    "time": {
+      "start": "July 31, 2022 14:05:00",
+      "end": "July 31, 2022 16:35:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Codeforces Round #810 (Div. 2)",
+    "desc": "url: http://codeforces.com/contests/1711",
+    "location": "codeforces.com",
+    "time": {
+      "start": "July 24, 2022 14:35:00",
+      "end": "July 24, 2022 16:35:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Codeforces Round #810 (Div. 1)",
+    "desc": "url: http://codeforces.com/contests/1710",
+    "location": "codeforces.com",
+    "time": {
+      "start": "July 24, 2022 14:35:00",
+      "end": "July 24, 2022 16:35:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Программирование - профессионалы (ком. 2022)",
+    "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+    "location": "dl.gsu.by",
+    "time": {
+      "start": "July 31, 2022 06:00:00",
+      "end": "July 31, 2022 11:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Программирование - профессионалы (ком. 2022)",
+    "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+    "location": "dl.gsu.by",
+    "time": {
+      "start": "July 24, 2022 06:00:00",
+      "end": "July 24, 2022 11:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Finale Coding Round Code Gladiators 2022",
+    "desc": "url: https://www.techgig.com/codegladiators/schedule",
+    "location": "techgig.com",
+    "time": {
+      "start": "July 24, 2022 05:30:00",
+      "end": "July 24, 2022 10:30:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Weekly Contest 303",
+    "desc": "url: https://leetcode.com/contest/weekly-contest-303",
+    "location": "leetcode.com",
+    "time": {
+      "start": "July 24, 2022 02:30:00",
+      "end": "July 24, 2022 04:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Biweekly Contest 83",
+    "desc": "url: https://leetcode.com/contest/biweekly-contest-83",
+    "location": "leetcode.com",
+    "time": {
+      "start": "July 23, 2022 14:30:00",
+      "end": "July 23, 2022 16:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Interview Series -61",
+    "desc": "url: https://practice.geeksforgeeks.org/contest/interview-series-61/",
+    "location": "geeksforgeeks.org",
+    "time": {
+      "start": "July 31, 2022 13:30:00",
+      "end": "July 31, 2022 15:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Challenge 9: Dynamic Programming",
+    "desc": "url: https://practice.geeksforgeeks.org/contest/challenge-9-dynamic-programming/",
+    "location": "geeksforgeeks.org",
+    "time": {
+      "start": "July 30, 2022 13:30:00",
+      "end": "July 30, 2022 15:30:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Bi-Wizard School Coding Tournament 5.0",
+    "desc": "url: https://practice.geeksforgeeks.org/contest/bi-wizard-school-coding-tournament-50/",
+    "location": "geeksforgeeks.org",
+    "time": {
+      "start": "July 26, 2022 12:30:00",
+      "end": "July 26, 2022 14:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Interview Series -60",
+    "desc": "url: https://practice.geeksforgeeks.org/contest/interview-series-60/",
+    "location": "geeksforgeeks.org",
+    "time": {
+      "start": "July 24, 2022 13:30:00",
+      "end": "July 24, 2022 15:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Challenge 8: Greedy, Heap",
+    "desc": "url: https://practice.geeksforgeeks.org/contest/challenge-8-greedy-heap/",
+    "location": "geeksforgeeks.org",
+    "time": {
+      "start": "July 23, 2022 13:30:00",
+      "end": "July 23, 2022 15:30:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "AtCoder Beginner Contest 262",
+    "desc": "url: https://atcoder.jp/contests/abc262",
+    "location": "atcoder.jp",
+    "time": {
+      "start": "July 31, 2022 12:00:00",
+      "end": "July 31, 2022 13:40:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "AtCoder Regular Contest 145",
+    "desc": "url: https://atcoder.jp/contests/arc145",
+    "location": "atcoder.jp",
+    "time": {
+      "start": "July 30, 2022 12:00:00",
+      "end": "July 30, 2022 14:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "AtCoder Beginner Contest 261",
+    "desc": "url: https://atcoder.jp/contests/abc261",
+    "location": "atcoder.jp",
+    "time": {
+      "start": "July 23, 2022 12:00:00",
+      "end": "July 23, 2022 13:40:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Aero CTF 2022",
+    "desc": "url: https://ctftime.org/event/1659/",
+    "location": "ctftime.org",
+    "time": {
+      "start": "July 30, 2022 10:00:00",
+      "end": "July 31, 2022 10:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "UACTF 2022",
+    "desc": "url: https://ctftime.org/event/1709/",
+    "location": "ctftime.org",
+    "time": {
+      "start": "July 30, 2022 01:30:00",
+      "end": "August 01, 2022 01:30:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "UIUCTF 2022",
+    "desc": "url: https://ctftime.org/event/1600/",
+    "location": "ctftime.org",
+    "time": {
+      "start": "July 29, 2022 00:00:00",
+      "end": "July 31, 2022 00:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "RED CTF",
+    "desc": "url: https://ctftime.org/event/1587/",
+    "location": "ctftime.org",
+    "time": {
+      "start": "July 23, 2022 13:30:00",
+      "end": "July 24, 2022 13:30:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "3kCTF-2022",
+    "desc": "url: https://ctftime.org/event/1592/",
+    "location": "ctftime.org",
+    "time": {
+      "start": "July 23, 2022 12:00:00",
+      "end": "July 24, 2022 12:00:00",
+      "zone": "-00:00"
+    }
+  }
+]
