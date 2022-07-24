@@ -22,6 +22,11 @@ export const dhm: (ms: number) => {
   return { days, hrs, mins, secs };
 };
 
+/**
+ *
+ * @param url URL of the webpage you want to scrape
+ * @returns HTML response in String format
+ */
 export const getHtmlFromUrl: (url: string) => Promise<string> = async (url) => {
   try {
     const res = await axios.get(url);
@@ -34,16 +39,30 @@ export const getHtmlFromUrl: (url: string) => Promise<string> = async (url) => {
   }
 };
 
+/**
+ *
+ * @param htmlString HTML code in string format
+ * @returns Parser API that parses the HTML string passed
+ */
 export const parseHtml = (htmlString: string) => {
   const $ = cheerio.load(htmlString);
   return $;
 };
 
-export const getContests = ($: any, selector: string) => {
+/**
+ *
+ * @param $ The HTML parser
+ * @param contest_status Boolean to tell weather the contest should be running or upcoming i.e. false for running and true for upcoming
+ * @returns List of contests according to the status
+ */
+export const getContests = ($: any, contest_status: boolean = true) => {
+  const contestArray = Object.entries(
+    $(contest_status ? ".coming" : ".running")
+  )
+    .reverse()
+    .slice(4);
   return JSON.stringify(
-    Object.entries($(selector))
-      .reverse()
-      .slice(4)
+    contestArray
       .map((contest: any, idx: number) =>
         JSON.parse(
           (
@@ -57,6 +76,27 @@ export const getContests = ($: any, selector: string) => {
           dhm(Date.parse(contest.time.start) - Date.now()).days < 8
       ),
     null,
-    2
+    4
   );
+};
+
+/**
+ *
+ * @returns The current time with date.
+ */
+export const getCurrentTimeStamp = () => {
+  const currentdate = new Date();
+  const timeStamp =
+    currentdate.getDate() +
+    "/" +
+    (currentdate.getMonth() + 1) +
+    "/" +
+    currentdate.getFullYear() +
+    " @ " +
+    currentdate.getHours() +
+    ":" +
+    currentdate.getMinutes() +
+    ":" +
+    currentdate.getSeconds();
+  return timeStamp;
 };
