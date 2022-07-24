@@ -1,432 +1,472 @@
 [
-  {
-    "title": "Програмчлалын үндэс",
-    "desc": "url: https://www.spoj.com/SICT/",
-    "location": "spoj.com",
-    "time": {
-      "start": "January 01, 2005 00:00:00",
-      "end": "January 01, 2023 00:00:00",
-      "zone": "-00:00"
+    {
+        "title": "@>3@0<G;0;K= �=4MA",
+        "desc": "url: https://www.spoj.com/SICT/",
+        "location": "spoj.com",
+        "time": {
+            "start": "January 01, 2005 00:00:00",
+            "end": "January 01, 2023 00:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "TCP_Maratona",
+        "desc": "url: https://www.spoj.com/TCP22/",
+        "location": "spoj.com",
+        "time": {
+            "start": "June 07, 2022 00:00:00",
+            "end": "January 01, 2023 00:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "UFTM012022",
+        "desc": "url: https://www.spoj.com/DFVPRTVQ/",
+        "location": "spoj.com",
+        "time": {
+            "start": "July 02, 2022 00:00:00",
+            "end": "December 21, 2022 00:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "The SpaceNet 8 Challenge, Flood Detection Using Multiclass Segmentation",
+        "desc": "url: https://topcoder.com/challenges/30269308",
+        "location": "topcoder.com",
+        "time": {
+            "start": "June 03, 2022 21:08:31",
+            "end": "August 23, 2022 16:59:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Hydropower Operations Optimization (H2Os) Prize Phase 2",
+        "desc": "url: https://topcoder.com/challenges/30278764",
+        "location": "topcoder.com",
+        "time": {
+            "start": "July 07, 2022 12:57:14",
+            "end": "August 19, 2022 13:23:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "><18=0B>@8:0. $>@<C;0",
+        "desc": "url: https://www.eolymp.com:443/en/contests/26394",
+        "location": "eolymp.com",
+        "time": {
+            "start": "July 17, 2022 12:00:00",
+            "end": "August 10, 2022 19:59:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": ">;=K9 ?5@51>@",
+        "desc": "url: https://www.eolymp.com:443/en/contests/26392",
+        "location": "eolymp.com",
+        "time": {
+            "start": "July 16, 2022 13:00:00",
+            "end": "July 31, 2022 19:59:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": ""5E=8:0 42CE C:070B5;59",
+        "desc": "url: https://www.eolymp.com:443/en/contests/26377",
+        "location": "eolymp.com",
+        "time": {
+            "start": "July 10, 2022 06:00:00",
+            "end": "July 29, 2022 20:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "IICC - Innovate India Coding Championship",
+        "desc": "url: https://www.codingninjas.com/codestudio/contests/iicc-innovate-india-coding-championship",
+        "location": "codingninjas.com/codestudio",
+        "time": {
+            "start": "July 20, 2022 12:27:00",
+            "end": "July 29, 2022 16:30:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "A Math Contest",
+        "desc": "url: https://dmoj.ca/contest/amc",
+        "location": "dmoj.ca",
+        "time": {
+            "start": "July 12, 2022 04:00:00",
+            "end": "July 27, 2022 04:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Data Sprint 84",
+        "desc": "url: https://dphi.tech/challenges/data-sprint-84/252/",
+        "location": "dphi.tech",
+        "time": {
+            "start": "July 22, 2022 15:30:00",
+            "end": "August 01, 2022 15:30:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Unsupervised Learning Challenge",
+        "desc": "url: https://dphi.tech/challenges/unsupervised-learning-challenge/259/",
+        "location": "dphi.tech",
+        "time": {
+            "start": "July 19, 2022 06:43:09",
+            "end": "July 25, 2022 18:29:59",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Python Basics Bootcamp Challenge",
+        "desc": "url: https://dphi.tech/challenges/python-basics-bootcamp-challenge/265/",
+        "location": "dphi.tech",
+        "time": {
+            "start": "July 19, 2022 08:16:26",
+            "end": "July 25, 2022 18:29:59",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Pandas Bootcamp Challenge",
+        "desc": "url: https://dphi.tech/challenges/pandas-bootcamp-challenge/264/",
+        "location": "dphi.tech",
+        "time": {
+            "start": "July 19, 2022 08:06:11",
+            "end": "July 25, 2022 18:29:59",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "NumPy Bootcamp Challenge",
+        "desc": "url: https://dphi.tech/challenges/numpy-bootcamp-challenge/261/",
+        "location": "dphi.tech",
+        "time": {
+            "start": "July 19, 2022 07:37:49",
+            "end": "July 25, 2022 18:29:59",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "NLP Bootcamp Challenge",
+        "desc": "url: https://dphi.tech/challenges/nlp-bootcamp-challenge/262/",
+        "location": "dphi.tech",
+        "time": {
+            "start": "July 19, 2022 07:53:34",
+            "end": "July 25, 2022 18:29:59",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Explainable AI Challenge",
+        "desc": "url: https://dphi.tech/challenges/explainable-ai-challenge/260/",
+        "location": "dphi.tech",
+        "time": {
+            "start": "July 19, 2022 06:55:34",
+            "end": "July 25, 2022 18:29:59",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Data Visualization Bootcamp Challenge",
+        "desc": "url: https://dphi.tech/challenges/data-visualization-bootcamp-challenge/263/",
+        "location": "dphi.tech",
+        "time": {
+            "start": "July 19, 2022 08:00:22",
+            "end": "July 25, 2022 18:29:59",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Data Sprint 83 - Underwater Caddy Gesture Recognition",
+        "desc": "url: https://dphi.tech/challenges/data-sprint-83-underwater-caddy-gesture-recognition/251/",
+        "location": "dphi.tech",
+        "time": {
+            "start": "July 15, 2022 15:30:00",
+            "end": "July 25, 2022 15:30:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "July Long Two 2022 (Rated for Div 3 & 4)",
+        "desc": "url: https://www.codechef.com/JULY222",
+        "location": "codechef.com",
+        "time": {
+            "start": "July 22, 2022 09:30:00",
+            "end": "July 25, 2022 09:30:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "A5@>AA89A:0O >;8<?8040 ?>  - 2022 [ai]. "@5=8@>2>G=K9 MB0?",
+        "desc": "url: https://cups.online/rounds/721",
+        "location": "cups.online",
+        "time": {
+            "start": "July 01, 2022 06:00:00",
+            "end": "September 25, 2022 20:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "CodeRoyale - 2022 [ai]. =5:>=:C@A=K9 @0C=4",
+        "desc": "url: https://cups.online/rounds/720",
+        "location": "cups.online",
+        "time": {
+            "start": "July 07, 2022 15:00:00",
+            "end": "July 31, 2022 20:59:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "CodeRoyale - 2022 [ai]. Sandbox",
+        "desc": "url: https://cups.online/rounds/716",
+        "location": "cups.online",
+        "time": {
+            "start": "July 07, 2022 15:00:00",
+            "end": "July 31, 2022 20:59:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "CodeRoyale - 2022 [ai]. Round 2",
+        "desc": "url: https://cups.online/rounds/718",
+        "location": "cups.online",
+        "time": {
+            "start": "July 22, 2022 21:00:00",
+            "end": "July 24, 2022 21:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "KE>48 @5H0BL [design]. $878:0",
+        "desc": "url: https://cups.online/rounds/722",
+        "location": "cups.online",
+        "time": {
+            "start": "July 23, 2022 09:00:00",
+            "end": "July 24, 2022 19:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "KE>48 @5H0BL [design]. 0B5<0B8:0",
+        "desc": "url: https://cups.online/rounds/723",
+        "location": "cups.online",
+        "time": {
+            "start": "July 23, 2022 09:00:00",
+            "end": "July 24, 2022 19:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Get a room: ML Hackathon. Competitive",
+        "desc": "url: https://www.hackerearth.com/challenges/competitive/get-a-room-ml-hackathon/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "July 22, 2022 16:30:00",
+            "end": "August 21, 2022 16:30:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "The Very First Daisi" Hackathon. Hackathon. Online",
+        "desc": "url: https://www.hackerearth.com/challenges/hackathon/the-very-first-daisitm-hackathon/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "July 13, 2022 07:00:00",
+            "end": "August 16, 2022 06:59:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "MoMo Hackathon 2022. Phase de soumission des id�es. Online",
+        "desc": "url: https://momo2022fr.hackerearth.com/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "July 18, 2022 00:00:00",
+            "end": "August 14, 2022 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "MoMo Hackathon 2022. IDEA SUBMISSION PHASE. Online",
+        "desc": "url: https://momo2022.hackerearth.com/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "July 18, 2022 00:00:00",
+            "end": "August 14, 2022 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "SirionLabs HackFest. Hackathon. Prototype Submission Phase. Online",
+        "desc": "url: https://www.hackerearth.com/challenges/hackathon/sirion-hackfest-binary-utopia/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "July 15, 2022 18:30:00",
+            "end": "August 07, 2022 18:29:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Web3athon. Idea Submission Phase. Online",
+        "desc": "url: https://web3athon.hackerearth.com/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "June 09, 2022 05:00:00",
+            "end": "August 07, 2022 14:59:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Open Web Forum 2022 Hackathon. Hackathon. Online",
+        "desc": "url: https://www.hackerearth.com/challenges/hackathon/open-web-forum-2022-hackathon/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "June 13, 2022 04:00:00",
+            "end": "August 01, 2022 03:59:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Software Development and Engineering Challenge. Competitive",
+        "desc": "url: https://www.hackerearth.com/challenges/competitive/great-learning-software-development-and-engineering-admission-challenge/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "July 15, 2022 12:30:00",
+            "end": "August 01, 2022 00:25:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": ". Hackathon. Idea phase. Online",
+        "desc": "url: https://www.hackerearth.com/challenges/hackathon/cheggs-hackathon/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "June 23, 2022 12:30:00",
+            "end": "July 29, 2022 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "July Circuits '22. Competitive. Rated contest",
+        "desc": "url: https://www.hackerearth.com/challenges/competitive/july-circuits-22/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "July 22, 2022 16:00:00",
+            "end": "July 29, 2022 16:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Connect 2022 Challenge. Hackathon. Project Submission phase. Online",
+        "desc": "url: https://www.hackerearth.com/challenges/hackathon/connect-2022-challenge/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "July 22, 2022 23:59:00",
+            "end": "July 24, 2022 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "The Orkes Hack. Hackathon. Prototype Submission Phase. Online",
+        "desc": "url: https://www.hackerearth.com/challenges/hackathon/orkes-hackfest/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 28, 2022 12:30:00",
+            "end": "July 24, 2022 18:29:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Digital Identity Hack Asia - 2022. Hackathon. LOGIN WITH UNSTOPPABLE INTEGRATION. Online",
+        "desc": "url: https://www.hackerearth.com/challenges/hackathon/digital-identity-hack-asia-2022-3/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "June 07, 2022 18:30:00",
+            "end": "July 24, 2022 18:29:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "MCH2022 CTF",
+        "desc": "url: https://ctftime.org/event/1696/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "July 22, 2022 15:00:00",
+            "end": "July 26, 2022 15:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Lexington Informatics Tournament CTF 2022",
+        "desc": "url: https://ctftime.org/event/1694/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "July 22, 2022 15:00:00",
+            "end": "July 25, 2022 03:59:59",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "DiceCTF @ Hope",
+        "desc": "url: https://ctftime.org/event/1706/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "July 22, 2022 14:00:00",
+            "end": "July 24, 2022 14:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "RED CTF",
+        "desc": "url: https://ctftime.org/event/1587/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "July 23, 2022 13:30:00",
+            "end": "July 24, 2022 13:30:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "PwnverseCTF22",
+        "desc": "url: https://ctftime.org/event/1710/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "July 22, 2022 12:00:00",
+            "end": "July 24, 2022 12:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "3kCTF-2022",
+        "desc": "url: https://ctftime.org/event/1592/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "July 23, 2022 12:00:00",
+            "end": "July 24, 2022 12:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "@>3@0<<8@>20=85 - ?@>D5AA8>=0;K (:><. 2022)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "July 24, 2022 06:00:00",
+            "end": "July 24, 2022 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    {
+        "title": "Finale Coding Round Code Gladiators 2022",
+        "desc": "url: https://www.techgig.com/codegladiators/schedule",
+        "location": "techgig.com",
+        "time": {
+            "start": "July 24, 2022 05:30:00",
+            "end": "July 24, 2022 10:30:00",
+            "zone": "-00:00"
+        }
     }
-  },
-  {
-    "title": "TCP_Maratona",
-    "desc": "url: https://www.spoj.com/TCP22/",
-    "location": "spoj.com",
-    "time": {
-      "start": "June 07, 2022 00:00:00",
-      "end": "January 01, 2023 00:00:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "UFTM012022",
-    "desc": "url: https://www.spoj.com/DFVPRTVQ/",
-    "location": "spoj.com",
-    "time": {
-      "start": "July 02, 2022 00:00:00",
-      "end": "December 21, 2022 00:00:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "The SpaceNet 8 Challenge, Flood Detection Using Multiclass Segmentation",
-    "desc": "url: https://topcoder.com/challenges/30269308",
-    "location": "topcoder.com",
-    "time": {
-      "start": "June 03, 2022 21:08:31",
-      "end": "August 23, 2022 16:59:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Hydropower Operations Optimization (H2Os) Prize Phase 2",
-    "desc": "url: https://topcoder.com/challenges/30278764",
-    "location": "topcoder.com",
-    "time": {
-      "start": "July 07, 2022 12:57:14",
-      "end": "August 19, 2022 13:23:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Комбинаторика. Формула",
-    "desc": "url: https://www.eolymp.com:443/en/contests/26394",
-    "location": "eolymp.com",
-    "time": {
-      "start": "July 17, 2022 12:00:00",
-      "end": "August 10, 2022 19:59:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Полный перебор",
-    "desc": "url: https://www.eolymp.com:443/en/contests/26392",
-    "location": "eolymp.com",
-    "time": {
-      "start": "July 16, 2022 13:00:00",
-      "end": "July 31, 2022 19:59:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Техника двух указателей",
-    "desc": "url: https://www.eolymp.com:443/en/contests/26377",
-    "location": "eolymp.com",
-    "time": {
-      "start": "July 10, 2022 06:00:00",
-      "end": "July 29, 2022 20:00:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "IICC - Innovate India Coding Championship",
-    "desc": "url: https://www.codingninjas.com/codestudio/contests/iicc-innovate-india-coding-championship",
-    "location": "codingninjas.com/codestudio",
-    "time": {
-      "start": "July 20, 2022 12:27:00",
-      "end": "July 29, 2022 16:30:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "A Math Contest",
-    "desc": "url: https://dmoj.ca/contest/amc",
-    "location": "dmoj.ca",
-    "time": {
-      "start": "July 12, 2022 04:00:00",
-      "end": "July 27, 2022 04:00:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Data Sprint 84",
-    "desc": "url: https://dphi.tech/challenges/data-sprint-84/252/",
-    "location": "dphi.tech",
-    "time": {
-      "start": "July 22, 2022 15:30:00",
-      "end": "August 01, 2022 15:30:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Unsupervised Learning Challenge",
-    "desc": "url: https://dphi.tech/challenges/unsupervised-learning-challenge/259/",
-    "location": "dphi.tech",
-    "time": {
-      "start": "July 19, 2022 06:43:09",
-      "end": "July 25, 2022 18:29:59",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Python Basics Bootcamp Challenge",
-    "desc": "url: https://dphi.tech/challenges/python-basics-bootcamp-challenge/265/",
-    "location": "dphi.tech",
-    "time": {
-      "start": "July 19, 2022 08:16:26",
-      "end": "July 25, 2022 18:29:59",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Pandas Bootcamp Challenge",
-    "desc": "url: https://dphi.tech/challenges/pandas-bootcamp-challenge/264/",
-    "location": "dphi.tech",
-    "time": {
-      "start": "July 19, 2022 08:06:11",
-      "end": "July 25, 2022 18:29:59",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "NumPy Bootcamp Challenge",
-    "desc": "url: https://dphi.tech/challenges/numpy-bootcamp-challenge/261/",
-    "location": "dphi.tech",
-    "time": {
-      "start": "July 19, 2022 07:37:49",
-      "end": "July 25, 2022 18:29:59",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "NLP Bootcamp Challenge",
-    "desc": "url: https://dphi.tech/challenges/nlp-bootcamp-challenge/262/",
-    "location": "dphi.tech",
-    "time": {
-      "start": "July 19, 2022 07:53:34",
-      "end": "July 25, 2022 18:29:59",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Explainable AI Challenge",
-    "desc": "url: https://dphi.tech/challenges/explainable-ai-challenge/260/",
-    "location": "dphi.tech",
-    "time": {
-      "start": "July 19, 2022 06:55:34",
-      "end": "July 25, 2022 18:29:59",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Data Visualization Bootcamp Challenge",
-    "desc": "url: https://dphi.tech/challenges/data-visualization-bootcamp-challenge/263/",
-    "location": "dphi.tech",
-    "time": {
-      "start": "July 19, 2022 08:00:22",
-      "end": "July 25, 2022 18:29:59",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Data Sprint 83 - Underwater Caddy Gesture Recognition",
-    "desc": "url: https://dphi.tech/challenges/data-sprint-83-underwater-caddy-gesture-recognition/251/",
-    "location": "dphi.tech",
-    "time": {
-      "start": "July 15, 2022 15:30:00",
-      "end": "July 25, 2022 15:30:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "July Long Two 2022 (Rated for Div 3 & 4)",
-    "desc": "url: https://www.codechef.com/JULY222",
-    "location": "codechef.com",
-    "time": {
-      "start": "July 22, 2022 09:30:00",
-      "end": "July 25, 2022 09:30:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Get a room: ML Hackathon. Competitive",
-    "desc": "url: https://www.hackerearth.com/challenges/competitive/get-a-room-ml-hackathon/",
-    "location": "hackerearth.com",
-    "time": {
-      "start": "July 22, 2022 16:30:00",
-      "end": "August 21, 2022 16:30:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "The Very First Daisi™ Hackathon. Hackathon. Online",
-    "desc": "url: https://www.hackerearth.com/challenges/hackathon/the-very-first-daisitm-hackathon/",
-    "location": "hackerearth.com",
-    "time": {
-      "start": "July 13, 2022 07:00:00",
-      "end": "August 16, 2022 06:59:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "MoMo Hackathon 2022. Phase de soumission des idées. Online",
-    "desc": "url: https://momo2022fr.hackerearth.com/",
-    "location": "hackerearth.com",
-    "time": {
-      "start": "July 18, 2022 00:00:00",
-      "end": "August 14, 2022 23:59:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "MoMo Hackathon 2022. IDEA SUBMISSION PHASE. Online",
-    "desc": "url: https://momo2022.hackerearth.com/",
-    "location": "hackerearth.com",
-    "time": {
-      "start": "July 18, 2022 00:00:00",
-      "end": "August 14, 2022 23:59:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "SirionLabs HackFest. Hackathon. Prototype Submission Phase. Online",
-    "desc": "url: https://www.hackerearth.com/challenges/hackathon/sirion-hackfest-binary-utopia/",
-    "location": "hackerearth.com",
-    "time": {
-      "start": "July 15, 2022 18:30:00",
-      "end": "August 07, 2022 18:29:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Web3athon. Idea Submission Phase. Online",
-    "desc": "url: https://web3athon.hackerearth.com/",
-    "location": "hackerearth.com",
-    "time": {
-      "start": "June 09, 2022 05:00:00",
-      "end": "August 07, 2022 14:59:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Open Web Forum 2022 Hackathon. Hackathon. Online",
-    "desc": "url: https://www.hackerearth.com/challenges/hackathon/open-web-forum-2022-hackathon/",
-    "location": "hackerearth.com",
-    "time": {
-      "start": "June 13, 2022 04:00:00",
-      "end": "August 01, 2022 03:59:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Software Development and Engineering Challenge. Competitive",
-    "desc": "url: https://www.hackerearth.com/challenges/competitive/great-learning-software-development-and-engineering-admission-challenge/",
-    "location": "hackerearth.com",
-    "time": {
-      "start": "July 15, 2022 12:30:00",
-      "end": "August 01, 2022 00:25:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "‎. Hackathon. Idea phase. Online",
-    "desc": "url: https://www.hackerearth.com/challenges/hackathon/cheggs-hackathon/",
-    "location": "hackerearth.com",
-    "time": {
-      "start": "June 23, 2022 12:30:00",
-      "end": "July 29, 2022 18:25:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "July Circuits '22. Competitive. Rated contest",
-    "desc": "url: https://www.hackerearth.com/challenges/competitive/july-circuits-22/",
-    "location": "hackerearth.com",
-    "time": {
-      "start": "July 22, 2022 16:00:00",
-      "end": "July 29, 2022 16:00:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Connect 2022 Challenge. Hackathon. Project Submission phase. Online",
-    "desc": "url: https://www.hackerearth.com/challenges/hackathon/connect-2022-challenge/",
-    "location": "hackerearth.com",
-    "time": {
-      "start": "July 22, 2022 23:59:00",
-      "end": "July 24, 2022 23:59:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "The Orkes Hack. Hackathon. Prototype Submission Phase. Online",
-    "desc": "url: https://www.hackerearth.com/challenges/hackathon/orkes-hackfest/",
-    "location": "hackerearth.com",
-    "time": {
-      "start": "March 28, 2022 12:30:00",
-      "end": "July 24, 2022 18:29:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Digital Identity Hack Asia - 2022. Hackathon. LOGIN WITH UNSTOPPABLE INTEGRATION. Online",
-    "desc": "url: https://www.hackerearth.com/challenges/hackathon/digital-identity-hack-asia-2022-3/",
-    "location": "hackerearth.com",
-    "time": {
-      "start": "June 07, 2022 18:30:00",
-      "end": "July 24, 2022 18:29:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "MCH2022 CTF",
-    "desc": "url: https://ctftime.org/event/1696/",
-    "location": "ctftime.org",
-    "time": {
-      "start": "July 22, 2022 15:00:00",
-      "end": "July 26, 2022 15:00:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Lexington Informatics Tournament CTF 2022",
-    "desc": "url: https://ctftime.org/event/1694/",
-    "location": "ctftime.org",
-    "time": {
-      "start": "July 22, 2022 15:00:00",
-      "end": "July 25, 2022 03:59:59",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "DiceCTF @ Hope",
-    "desc": "url: https://ctftime.org/event/1706/",
-    "location": "ctftime.org",
-    "time": {
-      "start": "July 22, 2022 14:00:00",
-      "end": "July 24, 2022 14:00:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "PwnverseCTF22",
-    "desc": "url: https://ctftime.org/event/1710/",
-    "location": "ctftime.org",
-    "time": {
-      "start": "July 22, 2022 12:00:00",
-      "end": "July 24, 2022 12:00:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Всероссийская олимпиада по ИИ - 2022 [ai]. Тренировочный этап",
-    "desc": "url: https://cups.online/rounds/721",
-    "location": "cups.online",
-    "time": {
-      "start": "July 01, 2022 06:00:00",
-      "end": "September 25, 2022 20:00:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "CodeRoyale - 2022 [ai]. Внеконкурсный раунд",
-    "desc": "url: https://cups.online/rounds/720",
-    "location": "cups.online",
-    "time": {
-      "start": "July 07, 2022 15:00:00",
-      "end": "July 31, 2022 20:59:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "CodeRoyale - 2022 [ai]. Sandbox",
-    "desc": "url: https://cups.online/rounds/716",
-    "location": "cups.online",
-    "time": {
-      "start": "July 07, 2022 15:00:00",
-      "end": "July 31, 2022 20:59:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Выходи решать [design]. Физика",
-    "desc": "url: https://cups.online/rounds/722",
-    "location": "cups.online",
-    "time": {
-      "start": "July 23, 2022 09:00:00",
-      "end": "July 24, 2022 19:00:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Выходи решать [design]. Математика",
-    "desc": "url: https://cups.online/rounds/723",
-    "location": "cups.online",
-    "time": {
-      "start": "July 23, 2022 09:00:00",
-      "end": "July 24, 2022 19:00:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "CodeRoyale - 2022 [ai]. Round 2",
-    "desc": "url: https://cups.online/rounds/718",
-    "location": "cups.online",
-    "time": {
-      "start": "July 22, 2022 21:00:00",
-      "end": "July 23, 2022 21:00:00",
-      "zone": "-00:00"
-    }
-  }
 ]
