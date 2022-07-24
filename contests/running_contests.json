@@ -200,6 +200,66 @@
     }
   },
   {
+    "title": "Всероссийская олимпиада по ИИ - 2022 [ai]. Тренировочный этап",
+    "desc": "url: https://cups.online/rounds/721",
+    "location": "cups.online",
+    "time": {
+      "start": "July 01, 2022 06:00:00",
+      "end": "September 25, 2022 20:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "CodeRoyale - 2022 [ai]. Внеконкурсный раунд",
+    "desc": "url: https://cups.online/rounds/720",
+    "location": "cups.online",
+    "time": {
+      "start": "July 07, 2022 15:00:00",
+      "end": "July 31, 2022 20:59:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "CodeRoyale - 2022 [ai]. Sandbox",
+    "desc": "url: https://cups.online/rounds/716",
+    "location": "cups.online",
+    "time": {
+      "start": "July 07, 2022 15:00:00",
+      "end": "July 31, 2022 20:59:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "CodeRoyale - 2022 [ai]. Round 2",
+    "desc": "url: https://cups.online/rounds/718",
+    "location": "cups.online",
+    "time": {
+      "start": "July 22, 2022 21:00:00",
+      "end": "July 24, 2022 21:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Выходи решать [design]. Физика",
+    "desc": "url: https://cups.online/rounds/722",
+    "location": "cups.online",
+    "time": {
+      "start": "July 23, 2022 09:00:00",
+      "end": "July 24, 2022 19:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
+    "title": "Выходи решать [design]. Математика",
+    "desc": "url: https://cups.online/rounds/723",
+    "location": "cups.online",
+    "time": {
+      "start": "July 23, 2022 09:00:00",
+      "end": "July 24, 2022 19:00:00",
+      "zone": "-00:00"
+    }
+  },
+  {
     "title": "Get a room: ML Hackathon. Competitive",
     "desc": "url: https://www.hackerearth.com/challenges/competitive/get-a-room-ml-hackathon/",
     "location": "hackerearth.com",
@@ -360,6 +420,16 @@
     }
   },
   {
+    "title": "RED CTF",
+    "desc": "url: https://ctftime.org/event/1587/",
+    "location": "ctftime.org",
+    "time": {
+      "start": "July 23, 2022 13:30:00",
+      "end": "July 24, 2022 13:30:00",
+      "zone": "-00:00"
+    }
+  },
+  {
     "title": "PwnverseCTF22",
     "desc": "url: https://ctftime.org/event/1710/",
     "location": "ctftime.org",
@@ -370,62 +440,22 @@
     }
   },
   {
-    "title": "Всероссийская олимпиада по ИИ - 2022 [ai]. Тренировочный этап",
-    "desc": "url: https://cups.online/rounds/721",
-    "location": "cups.online",
+    "title": "3kCTF-2022",
+    "desc": "url: https://ctftime.org/event/1592/",
+    "location": "ctftime.org",
     "time": {
-      "start": "July 01, 2022 06:00:00",
-      "end": "September 25, 2022 20:00:00",
+      "start": "July 23, 2022 12:00:00",
+      "end": "July 24, 2022 12:00:00",
       "zone": "-00:00"
     }
   },
   {
-    "title": "CodeRoyale - 2022 [ai]. Внеконкурсный раунд",
-    "desc": "url: https://cups.online/rounds/720",
-    "location": "cups.online",
+    "title": "Weekly Contest 303",
+    "desc": "url: https://leetcode.com/contest/weekly-contest-303",
+    "location": "leetcode.com",
     "time": {
-      "start": "July 07, 2022 15:00:00",
-      "end": "July 31, 2022 20:59:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "CodeRoyale - 2022 [ai]. Sandbox",
-    "desc": "url: https://cups.online/rounds/716",
-    "location": "cups.online",
-    "time": {
-      "start": "July 07, 2022 15:00:00",
-      "end": "July 31, 2022 20:59:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Выходи решать [design]. Физика",
-    "desc": "url: https://cups.online/rounds/722",
-    "location": "cups.online",
-    "time": {
-      "start": "July 23, 2022 09:00:00",
-      "end": "July 24, 2022 19:00:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "Выходи решать [design]. Математика",
-    "desc": "url: https://cups.online/rounds/723",
-    "location": "cups.online",
-    "time": {
-      "start": "July 23, 2022 09:00:00",
-      "end": "July 24, 2022 19:00:00",
-      "zone": "-00:00"
-    }
-  },
-  {
-    "title": "CodeRoyale - 2022 [ai]. Round 2",
-    "desc": "url: https://cups.online/rounds/718",
-    "location": "cups.online",
-    "time": {
-      "start": "July 22, 2022 21:00:00",
-      "end": "July 23, 2022 21:00:00",
+      "start": "July 24, 2022 02:30:00",
+      "end": "July 24, 2022 04:00:00",
       "zone": "-00:00"
     }
   }
