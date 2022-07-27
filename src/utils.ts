@@ -55,7 +55,7 @@ export const parseHtml = (htmlString: string) => {
  * @param contest_status Boolean to tell weather the contest should be running or upcoming i.e. false for running and true for upcoming
  * @returns List of contests according to the status
  */
-export const getContests = ($: any, contest_status: boolean = true) => {
+export const scrapeContests = ($: any, contest_status: boolean = true) => {
   const contestArray = Object.entries(
     $(contest_status ? ".coming" : ".running")
   )

@@ -1,51 +1,42 @@
 import "dotenv/config";
-import { getHtmlFromUrl, parseHtml, getContests } from "./utils";
-import { ToadScheduler, SimpleIntervalJob, AsyncTask } from "toad-scheduler";
-import updateContent from "./github_service";
+import express from "express";
+import { ToadScheduler } from "toad-scheduler";
+import { getContest } from "./github_service";
+import { scheduledScrapeTask } from "./scrapper";
 
 const scheduler = new ToadScheduler();
+const app = express();
 
-(async () => {
+app.get("/contests/upcoming", async (_, res) => {
   try {
-    const htmlString = await getHtmlFromUrl("https://clist.by/");
-    const parserAPI = parseHtml(htmlString);
-    const comingContestsJson = getContests(parserAPI);
-    const runningContestsJson = getContests(parserAPI, false);
-    Promise.all([
-      updateContent("contests/upcoming_contests.json", comingContestsJson),
-      updateContent("contests/running_contests.json", runningContestsJson),
-    ]);
-  } catch (e: any) {
-    console.log(e.message);
-  }
-})();
-
-const task = new AsyncTask(
-  "simple task",
-  () => {
-    console.log("Running Task");
-    return getHtmlFromUrl("https://clist.by/").then((htmlString) => {
-      const parserAPI = parseHtml(htmlString);
-      const comingContestsJson = getContests(parserAPI);
-      const runningContestsJson = getContests(parserAPI, false);
-      Promise.all([
-        updateContent("contests/upcoming_contests.json", comingContestsJson),
-        updateContent("contests/running_contests.json", runningContestsJson),
-      ]);
+    const result = await getContest("contests/upcoming_contests.json");
+    res.status(200).json({
+      status: "success",
+      data: result,
     });
-  },
-  (err: Error) => {
+  } catch (err: any) {
     console.log(err.message);
   }
-);
-const job = new SimpleIntervalJob(
-  { hours: Number(process.env.SCHEDULER_INTERVAL) },
-  task
-);
+});
 
-scheduler.addSimpleIntervalJob(job);
+app.get("/contests/running", async (_, res) => {
+  try {
+    const result = await getContest("contests/running_contests.json");
+    res.status(200).json({
+      status: "success",
+      data: result,
+    });
+  } catch (err: any) {
+    console.log(err.message);
+  }
+});
 
-// when stopping your app
+app.listen(process.env.EXPOSED_PORT, () => {
+  console.log("App Running");
+});
+
+scheduler.addSimpleIntervalJob(scheduledScrapeTask);
+
 process.on("exit", function () {
   scheduler.stop();
 });
