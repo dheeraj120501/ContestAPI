@@ -31,7 +31,7 @@ app.get("/contests/running", async (_, res) => {
   }
 });
 
-app.listen(process.env.EXPOSED_PORT, () => {
+app.listen(process.env.PORT, () => {
   console.log("App Running");
 });
 
