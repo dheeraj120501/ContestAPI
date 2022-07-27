@@ -20,6 +20,7 @@
     "toad-scheduler": "^1.6.1"
   },
   "devDependencies": {
+    "typescript": "^4.7.4",
     "@types/node": "^18.0.6"
   }
 }
