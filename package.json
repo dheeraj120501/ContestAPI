@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "npm run build && node ./dist/index",
+    "start": "node ./dist/index",
     "watch": "tsc --watch",
-    "build": "node ./clean && tsc"
+    "build": "rm -rf dist && tsc",
+    "heroku-postbuild": "tsc"
   },
   "keywords": [],
   "license": "ISC",
