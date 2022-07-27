@@ -6,7 +6,8 @@
     "start": "node ./dist/index",
     "watch": "tsc --watch",
     "build": "rm -rf dist && tsc",
-    "heroku-postbuild": "tsc"
+    "tsc": "tsc",
+    "heroku-postbuild": "npm run tsc"
   },
   "keywords": [],
   "license": "ISC",
