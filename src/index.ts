@@ -9,10 +9,11 @@ const app = express();
 
 app.get("/contests/upcoming", async (_, res) => {
   try {
-    const result = await getContest("contests/upcoming_contests.json");
+    const result: any = await getContest("contests/upcoming_contests.json");
     res.status(200).json({
       status: "success",
-      data: result,
+      "updated-at": result["updated-at"],
+      data: JSON.parse(result["content"]),
     });
   } catch (err: any) {
     console.log(err.message);
@@ -21,10 +22,11 @@ app.get("/contests/upcoming", async (_, res) => {
 
 app.get("/contests/running", async (_, res) => {
   try {
-    const result = await getContest("contests/running_contests.json");
+    const result: any = await getContest("contests/running_contests.json");
     res.status(200).json({
       status: "success",
-      data: result,
+      "updated-at": result["updated-at"],
+      data: JSON.parse(result["content"]),
     });
   } catch (err: any) {
     console.log(err.message);

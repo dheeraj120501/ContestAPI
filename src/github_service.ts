@@ -37,7 +37,11 @@ export const updateContest: (
       },
     })) as any;
     const prevData = getRes.data;
-    const base64Content = _btoa(content, true);
+    const jsonContent = JSON.stringify({
+      "updated-at": getCurrentTimeStamp(),
+      content,
+    });
+    const base64Content = _btoa(jsonContent, true);
     const file = path.split("/").reverse()[0];
     await axios({
       method: "put",
