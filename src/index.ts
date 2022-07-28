@@ -7,7 +7,7 @@ import { scheduledScrapeTask } from "./scrapper";
 const scheduler = new ToadScheduler();
 const app = express();
 
-app.get("/contests/upcoming", async (_, res) => {
+app.get("/upcoming", async (_, res) => {
   try {
     const result: any = await getContest("contests/upcoming_contests.json");
     res.status(200).json({
@@ -20,7 +20,7 @@ app.get("/contests/upcoming", async (_, res) => {
   }
 });
 
-app.get("/contests/running", async (_, res) => {
+app.get("/running", async (_, res) => {
   try {
     const result: any = await getContest("contests/running_contests.json");
     res.status(200).json({
