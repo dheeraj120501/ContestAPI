@@ -3,10 +3,12 @@ import express from "express";
 import { ToadScheduler } from "toad-scheduler";
 import { getContest } from "./github_service";
 import { scheduledScrapeTask } from "./scrapper";
+import cors from "cors";
 
 const scheduler = new ToadScheduler();
 const app = express();
 
+app.use(cors());
 app.get("/upcoming", async (_, res) => {
   try {
     const result: any = await getContest("contests/upcoming_contests.json");
