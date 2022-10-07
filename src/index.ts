@@ -1,38 +1,22 @@
 import "dotenv/config";
 import express from "express";
 import { ToadScheduler } from "toad-scheduler";
-import { getContest } from "./github_service";
 import { scheduledScrapeTask } from "./scrapper";
+import { contests, sheets } from "./routes";
 import cors from "cors";
+import { getCurrentTimeStamp } from "./utils";
 
 const scheduler = new ToadScheduler();
 const app = express();
 
 app.use(cors());
-app.get("/upcoming", async (_, res) => {
-  try {
-    const result: any = await getContest("contests/upcoming_contests.json");
-    res.status(200).json({
-      status: "success",
-      "updated-at": result["updated-at"],
-      data: JSON.parse(result["content"]),
-    });
-  } catch (err: any) {
-    console.log(err.message);
-  }
-});
 
-app.get("/running", async (_, res) => {
-  try {
-    const result: any = await getContest("contests/running_contests.json");
-    res.status(200).json({
-      status: "success",
-      "updated-at": result["updated-at"],
-      data: JSON.parse(result["content"]),
-    });
-  } catch (err: any) {
-    console.log(err.message);
-  }
+app.use("/contests", contests);
+
+app.use(express.static("public"));
+
+app.get("*", (_, res) => {
+  res.send(`App is runnings ${getCurrentTimeStamp()}`);
 });
 
 app.listen(process.env.PORT, () => {
