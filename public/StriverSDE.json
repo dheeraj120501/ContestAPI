@@ -1,0 +1,1283 @@
+[
+  {
+    "name": "Arrays",
+    "quesList": [
+      {
+        "title": "Set Matrix Zeroes",
+        "article": "https://www.codingninjas.com/codestudio/problems/set-matrix-zeros_3846774?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "code platform": "https://leetcode.com/problems/set-matrix-zeroes/",
+        "video tutorial": "https://www.youtube.com/watch?v=M65xBewcqcI&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=7"
+      },
+      {
+        "title": "Pascal's Triangle",
+        "article": "https://bit.ly/3rhv153",
+        "code platform": "https://leetcode.com/problems/pascals-triangle/",
+        "video tutorial": "https://www.youtube.com/watch?v=6FLvhQjZqvM&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=8"
+      },
+      {
+        "title": "Next Permutation",
+        "article": "https://bit.ly/3qoj5iQ",
+        "code platform": "https://leetcode.com/problems/next-permutation/",
+        "video tutorial": "https://www.youtube.com/watch?v=LuLCLgMElus&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=9"
+      },
+      {
+        "title": "Kadane's Algorithm",
+        "article": "https://bit.ly/3HZltTa",
+        "code platform": "https://leetcode.com/problems/maximum-subarray/",
+        "video tutorial": "https://www.youtube.com/watch?v=w_KEocd__20&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=5"
+      },
+      {
+        "title": "Sort an array of 0's 1's 2's",
+        "article": "https://bit.ly/3tlM60B",
+        "code platform": "https://leetcode.com/problems/sort-colors/",
+        "video tutorial": "https://www.youtube.com/watch?v=oaVa-9wmpns&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=2"
+      },
+      {
+        "title": "Stock buy and Sell",
+        "article": "https://bit.ly/3GsANaD",
+        "code platform": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "video tutorial": "https://www.youtube.com/watch?v=eMSfBgbiEjk&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=11"
+      }
+    ]
+  },
+  {
+    "name": "Arrays Part-II",
+    "quesList": [
+      {
+        "title": "Rotate Matrix",
+        "article": "https://bit.ly/3rhVUWx",
+        "code platform": "https://leetcode.com/problems/rotate-image/",
+        "video tutorial": "https://www.youtube.com/watch?v=Y72QeX0Efxw&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=12"
+      },
+      {
+        "title": "Merge Overlapping Subintervals",
+        "article": "https://bit.ly/3rj9LvO",
+        "code platform": "https://leetcode.com/problems/merge-intervals/",
+        "video tutorial": "https://www.youtube.com/watch?v=2JzRBPFYbKE&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=6"
+      },
+      {
+        "title": "Merge two sorted Arrays without extra space",
+        "article": "https://bit.ly/33umm7e",
+        "code platform": "https://leetcode.com/problems/merge-sorted-array/",
+        "video tutorial": "https://www.youtube.com/watch?v=hVl2b3bLzBw&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=4"
+      },
+      {
+        "title": "Find the duplicate in an array of N+1 integers",
+        "article": "https://bit.ly/3GtKDJb",
+        "code platform": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "video tutorial": "https://www.youtube.com/watch?v=32Ll35mhWg0&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=1"
+      },
+      {
+        "title": "Repeat and Missing Number",
+        "article": "https://bit.ly/3Gs6wZu",
+        "code platform": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
+        "video tutorial": "https://www.youtube.com/watch?v=5nMGY4VUoRY&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=3"
+      },
+      {
+        "title": "Inversion of Array (Pre-req: Merge Sort)",
+        "article": "https://bit.ly/339fFb7",
+        "code platform": "https://www.codingninjas.com/codestudio/problems/count-inversions_615",
+        "video tutorial": "https://www.youtube.com/watch?v=kQ1mJlwW-c0"
+      }
+    ]
+  },
+  {
+    "name": "Arrays Part-III",
+    "quesList": [
+      {
+        "title": "Search in a 2d Matrix",
+        "article": "https://bit.ly/3GD7NNa",
+        "code platform": "https://leetcode.com/problems/search-a-2d-matrix/",
+        "video tutorial": "https://www.youtube.com/watch?v=ZYpYur0znng&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=14"
+      },
+      {
+        "title": "Pow(X,n)",
+        "article": "https://bit.ly/3Gtjwhl",
+        "code platform": "https://leetcode.com/problems/powx-n/",
+        "video tutorial": "https://www.youtube.com/watch?v=l0YC3876qxg&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=15"
+      },
+      {
+        "title": "Majority Element (>N/2 times)",
+        "article": "https://bit.ly/3FpfpBQ",
+        "code platform": "https://leetcode.com/problems/majority-element/",
+        "video tutorial": "https://www.youtube.com/watch?v=AoX3BPWNnoE&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=16"
+      },
+      {
+        "title": "Majority Element (>N/3 times)",
+        "article": "https://bit.ly/3foYLYp",
+        "code platform": "https://leetcode.com/problems/majority-element-ii/",
+        "video tutorial": "https://www.youtube.com/watch?v=yDbkQd9t2ig&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=17"
+      },
+      {
+        "title": "Grid Unique Paths",
+        "article": "https://bit.ly/3fm1dyN",
+        "code platform": "https://leetcode.com/problems/unique-paths/",
+        "video tutorial": "https://youtu.be/t_f0nwwdg5o"
+      },
+      {
+        "title": "Reverse Pairs (Leetcode)",
+        "article": "https://bit.ly/3tm5PgF",
+        "code platform": "https://leetcode.com/problems/reverse-pairs/",
+        "video tutorial": "https://www.youtube.com/watch?v=S6rsAlj_iB4&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=19"
+      }
+    ]
+  },
+  {
+    "name": "Arrays Part-IV",
+    "quesList": [
+      {
+        "title": "2-Sum-Problem",
+        "article": "https://bit.ly/3riXBmz",
+        "code platform": "https://leetcode.com/problems/two-sum/",
+        "video tutorial": "https://www.youtube.com/watch?v=dRUpbt8vHpo&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_&index=2"
+      },
+      {
+        "title": "4-sum-Problem",
+        "article": "https://bit.ly/3qpfEsj",
+        "code platform": "https://leetcode.com/problems/4sum/",
+        "video tutorial": "https://www.youtube.com/watch?v=4ggF3tXIAp0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=21"
+      },
+      {
+        "title": "Longest Consecutive Sequence",
+        "article": "https://bit.ly/34EoAS0",
+        "code platform": "https://leetcode.com/problems/longest-consecutive-sequence/",
+        "video tutorial": "https://www.youtube.com/watch?v=qgizvmgeyUM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=22"
+      },
+      {
+        "title": "Largest Subarray with 0 sum",
+        "article": "https://bit.ly/31UHoeM",
+        "code platform": "https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+        "video tutorial": "https://www.youtube.com/watch?v=xmguZ6GbatA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=23"
+      },
+      {
+        "title": "Count number of subarrays with given Xor K",
+        "article": "https://bit.ly/3fp24yN",
+        "code platform": "https://www.interviewbit.com/problems/subarray-with-given-xor/",
+        "video tutorial": "https://www.youtube.com/watch?v=lO9R5CaGRPY&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=25"
+      },
+      {
+        "title": "Longest Substring without repeat",
+        "article": "https://bit.ly/3no44fb",
+        "code platform": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "video tutorial": "https://www.youtube.com/watch?v=qtVh-XEpsJo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=26"
+      }
+    ]
+  },
+  {
+    "name": "Linked List",
+    "quesList": [
+      {
+        "title": "Reverse a LinkedList",
+        "article": "https://bit.ly/3qoE6K6",
+        "code platform": "https://leetcode.com/problems/reverse-linked-list/",
+        "video tutorial": "https://www.youtube.com/watch?v=iRtLEoL-r-g&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=27"
+      },
+      {
+        "title": "Find the middle of LinkedList",
+        "article": "https://bit.ly/3KcRxoG",
+        "code platform": "https://leetcode.com/problems/middle-of-the-linked-list/",
+        "video tutorial": "https://www.youtube.com/watch?v=sGdwSH8RK-o&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=28"
+      },
+      {
+        "title": "Merge two sorted Linked List (use method used in mergeSort)",
+        "article": "https://bit.ly/3qnbSj8",
+        "code platform": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "video tutorial": "https://www.youtube.com/watch?v=Xb4slcp1U38&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=29"
+      },
+      {
+        "title": "Remove N-th node from back of LinkedList",
+        "article": "https://bit.ly/3riZ4JB",
+        "code platform": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "video tutorial": "https://www.youtube.com/watch?v=Lhu3MsXZy-Q&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=30"
+      },
+      {
+        "title": "Add two numbers as LinkedList",
+        "article": "https://bit.ly/3qqbgcq",
+        "code platform": "https://leetcode.com/problems/add-two-numbers/",
+        "video tutorial": "https://www.youtube.com/watch?v=LBVsXSMOIk4&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=32"
+      },
+      {
+        "title": "Delete a given Node when a node is given.(0(1) solution)",
+        "article": "https://bit.ly/3GqW4kN",
+        "code platform": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+        "video tutorial": "https://www.youtube.com/watch?v=icnp4FJdZ_c&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=31"
+      }
+    ]
+  },
+  {
+    "name": "Linked List Part-II",
+    "quesList": [
+      {
+        "title": "Find intersection point of Y LinkedList",
+        "article": "https://bit.ly/3fiMQeG",
+        "code platform": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "video tutorial": "https://www.youtube.com/watch?v=u4FWXfgS8jw&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=33"
+      },
+      {
+        "title": "Detect a cycle in Linked List",
+        "article": "https://bit.ly/3I2fmxh",
+        "code platform": "https://leetcode.com/problems/linked-list-cycle/",
+        "video tutorial": "https://www.youtube.com/watch?v=354J83hX7RI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34"
+      },
+      {
+        "title": "Reverse a LinkedList in groups of size k.",
+        "article": "https://bit.ly/3Gsfk1u",
+        "code platform": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "video tutorial": "https://www.youtube.com/watch?v=Of0HPkk3JgI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34"
+      },
+      {
+        "title": "Check if a LinkedList is palindrome or not.",
+        "article": "https://bit.ly/3GqRMKv",
+        "code platform": "https://leetcode.com/problems/palindrome-linked-list/",
+        "video tutorial": "https://www.youtube.com/watch?v=-DtNInqFUXs&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=36"
+      },
+      {
+        "title": "Find the starting point of the Loop of LinkedList",
+        "article": "https://bit.ly/3K32lpf",
+        "code platform": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "video tutorial": "https://www.youtube.com/watch?v=QfbOhn0WZ88&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=37"
+      },
+      {
+        "title": "Flattening of a LinkedList",
+        "article": "https://bit.ly/3nqtEA1",
+        "code platform": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+        "video tutorial": "https://www.youtube.com/watch?v=ysytSSXpAI0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=38"
+      }
+    ]
+  },
+  {
+    "name": "Linked List and Arrays",
+    "quesList": [
+      {
+        "title": "Rotate a LinkedList",
+        "article": "https://bit.ly/33bNQPo",
+        "code platform": "https://leetcode.com/problems/rotate-list/description/",
+        "video tutorial": "https://www.youtube.com/watch?v=9VPm6nEbVPA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=39"
+      },
+      {
+        "title": "Clone a Linked List with random and next pointer",
+        "article": "https://bit.ly/3qnFoFg",
+        "code platform": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+        "video tutorial": "https://www.youtube.com/watch?v=VNf6VynfpdM"
+      },
+      {
+        "title": "3 sum",
+        "article": "https://bit.ly/33wlWxk",
+        "code platform": "https://leetcode.com/problems/3sum/",
+        "video tutorial": "https://www.youtube.com/watch?v=onLoX6Nhvmg&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=41"
+      },
+      {
+        "title": "Trapping rainwater",
+        "article": "https://bit.ly/3KcxExJ",
+        "code platform": "https://leetcode.com/problems/trapping-rain-water/",
+        "video tutorial": "https://www.youtube.com/watch?v=m18Hntz4go8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=42"
+      },
+      {
+        "title": "Remove Duplicate from Sorted array",
+        "article": "https://bit.ly/31Usllh",
+        "code platform": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "video tutorial": "https://www.youtube.com/watch?v=Fm_p9lJ4Z_8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=43"
+      },
+      {
+        "title": "Max consecutive ones",
+        "article": "https://leetcode.com/problems/max-consecutive-ones/",
+        "code platform": "https://leetcode.com/problems/max-consecutive-ones/",
+        "video tutorial": "https://www.youtube.com/watch?v=Mo33MjjMlyA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=44"
+      }
+    ]
+  },
+  {
+    "name": "Greedy Algorithm",
+    "quesList": [
+      {
+        "title": "N meetings in one room",
+        "article": "https://bit.ly/3zXdqn5",
+        "code platform": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
+        "video tutorial": "https://www.youtube.com/watch?v=II6ziNnub1Q&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=45"
+      },
+      {
+        "title": "Minimum number of platforms required for a railway",
+        "article": "https://bit.ly/3npx0mW",
+        "code platform": "https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#",
+        "video tutorial": "https://www.youtube.com/watch?v=dxVcMDI7vyI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=46"
+      },
+      {
+        "title": "Job sequencing Problem",
+        "article": "https://bit.ly/3K9XZfV",
+        "code platform": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#",
+        "video tutorial": "https://www.youtube.com/watch?v=LjPx4wQaRIs&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=47"
+      },
+      {
+        "title": "Fractional Knapsack Problem",
+        "article": "https://bit.ly/3I7fNXn",
+        "code platform": "https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
+        "video tutorial": "https://www.youtube.com/watch?v=F_DDzYnxO14&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49"
+      },
+      {
+        "title": "Greedy algorithm to find minimum number of coins",
+        "article": "https://bit.ly/3nquVHj",
+        "code platform": "https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/",
+        "video tutorial": "https://www.youtube.com/watch?v=mVg9CfJvayM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=48"
+      },
+      {
+        "title": "Activity Selection (it is the same as N meeting in one room)",
+        "article": "https://bit.ly/3I2iPvN",
+        "code platform": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
+        "video tutorial": "https://www.youtube.com/watch?v=II6ziNnub1Q&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=45"
+      }
+    ]
+  },
+  {
+    "name": "Recursion",
+    "quesList": [
+      {
+        "title": "Subset Sums",
+        "article": "https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "code platform": "https://practice.geeksforgeeks.org/problems/subset-sums2234/1",
+        "video tutorial": "https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52"
+      },
+      {
+        "title": "Subset-II",
+        "article": "https://bit.ly/3qnaLjq",
+        "code platform": "https://leetcode.com/problems/subsets-ii/",
+        "video tutorial": "https://www.youtube.com/watch?v=RIn3gOkbhQE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=53"
+      },
+      {
+        "title": "Combination sum-1",
+        "article": "https://bit.ly/3qpmDS1",
+        "code platform": "https://leetcode.com/problems/combination-sum/",
+        "video tutorial": "https://www.youtube.com/watch?v=OyZFFqQtu98&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49"
+      },
+      {
+        "title": "Combination sum-2",
+        "article": "https://bit.ly/3tkbtjk",
+        "code platform": "https://leetcode.com/problems/combination-sum-ii/",
+        "video tutorial": "https://www.youtube.com/watch?v=G1fRTGRxXU8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=50"
+      },
+      {
+        "title": "Palindrome Partitioning",
+        "article": "https://bit.ly/3HZPNgs",
+        "code platform": "https://leetcode.com/problems/palindrome-partitioning/",
+        "video tutorial": "https://www.youtube.com/watch?v=WBgsABoClE0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=51"
+      },
+      {
+        "title": "K-th permutation Sequence",
+        "article": "https://bit.ly/3KcCP0D",
+        "code platform": "https://leetcode.com/problems/permutation-sequence/",
+        "video tutorial": "https://www.youtube.com/watch?v=wT7gcXLYoao&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=55"
+      }
+    ]
+  },
+  {
+    "name": "Recursion and Backtracking",
+    "quesList": [
+      {
+        "title": "Print all permutations of a string/array",
+        "article": "https://bit.ly/3fmwxNV",
+        "code platform": "https://leetcode.com/problems/permutations/",
+        "video tutorial": "https://www.youtube.com/watch?v=f2ic2Rsc9pU&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52"
+      },
+      {
+        "title": "N queens Problem",
+        "article": "https://bit.ly/3zSZavC",
+        "code platform": "https://leetcode.com/problems/n-queens/",
+        "video tutorial": "https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=57"
+      },
+      {
+        "title": "Sudoku Solver",
+        "article": "https://bit.ly/31Z5Iwe",
+        "code platform": "https://leetcode.com/problems/sudoku-solver/",
+        "video tutorial": "https://www.youtube.com/watch?v=FWAIf_EVUKE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=58"
+      },
+      {
+        "title": "M coloring Problem",
+        "article": "https://bit.ly/3I48oI6",
+        "code platform": "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#",
+        "video tutorial": "https://www.youtube.com/watch?v=wuVwUK25Rfc&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=59"
+      },
+      {
+        "title": "Rat in a Maze",
+        "article": "https://bit.ly/3fmwP7t",
+        "code platform": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+        "video tutorial": "https://www.youtube.com/watch?v=bLGZhJlt4y0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=60"
+      },
+      {
+        "title": "Word Break (print all ways)",
+        "article": "https://bit.ly/3FxgW92",
+        "code platform": "",
+        "video tutorial": ""
+      }
+    ]
+  },
+  {
+    "name": "Binary Search",
+    "quesList": [
+      {
+        "title": "The N-th root of an integer",
+        "article": "https://bit.ly/3rj7Ib1",
+        "code platform": "",
+        "video tutorial": "https://www.youtube.com/watch?v=WjpswYrS2nY&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=62"
+      },
+      {
+        "title": "Matrix Median",
+        "article": "https://bit.ly/33AHZTz",
+        "code platform": "https://www.interviewbit.com/problems/matrix-median/",
+        "video tutorial": "https://www.youtube.com/watch?v=63fPPOdIr2c&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=62"
+      },
+      {
+        "title": "Find the element that appears once in a sorted array, and the rest element appears twice (Binary search)",
+        "article": "https://bit.ly/3rng2qC",
+        "code platform": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+        "video tutorial": "https://www.youtube.com/watch?v=PzszoiY5XMQ&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=64"
+      },
+      {
+        "title": "Search element in a sorted and rotated array/ find pivot where it is rotated",
+        "article": "https://bit.ly/3nnxGcm",
+        "code platform": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "video tutorial": "https://www.youtube.com/watch?v=r3pMQ8-Ad5s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=64"
+      },
+      {
+        "title": "Median of 2 sorted arrays",
+        "article": "https://bit.ly/3Ka3jQr",
+        "code platform": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+        "video tutorial": "https://www.youtube.com/watch?v=NTop3VTjmxk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=65"
+      },
+      {
+        "title": "K-th element of two sorted arrays",
+        "article": "https://bit.ly/3qm0cgu",
+        "code platform": "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
+        "video tutorial": "https://www.youtube.com/watch?v=nv7F4PiLUzo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=66"
+      },
+      {
+        "title": "Allocate Minimum Number of Pages",
+        "article": "https://bit.ly/3FrKxk7",
+        "code platform": "https://www.interviewbit.com/problems/allocate-books/",
+        "video tutorial": "https://www.youtube.com/watch?v=gYmWHvRHu-s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=69"
+      },
+      {
+        "title": "Aggressive Cows",
+        "article": "https://bit.ly/3zV52ob",
+        "code platform": "https://www.spoj.com/problems/AGGRCOW/",
+        "video tutorial": "https://www.youtube.com/watch?v=wSOfYesTBRk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=70"
+      }
+    ]
+  },
+  {
+    "name": "Heaps",
+    "quesList": [
+      {
+        "title": "Max heap, Min Heap Implementation (Only for interviews)",
+        "article": "https://www.codingninjas.com/codestudio/problems/min-heap_4691801?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "code platform": "",
+        "video tutorial": ""
+      },
+      {
+        "title": "Kth Largest Element",
+        "article": "https://www.codingninjas.com/codestudio/problems/kth-smallest-and-largest-element-of-array_1115488?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "code platform": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Maximum Sum Combination",
+        "article": "https://www.codingninjas.com/codestudio/problems/k-max-sum-combinations_975322?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "code platform": "https://www.interviewbit.com/problems/maximum-sum-combinations/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Find Median from Data Stream",
+        "article": "https://www.codingninjas.com/codestudio/problems/running-median_625409?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "code platform": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Merge K sorted arrays",
+        "article": "https://www.codingninjas.com/codestudio/problems/merge-k-sorted-arrays_975379?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "code platform": "https://www.codingninjas.com/codestudio/problems/merge-k-sorted-arrays_975379",
+        "video tutorial": ""
+      },
+      {
+        "title": "K most frequent elements",
+        "article": "https://www.codingninjas.com/codestudio/problems/k-most-frequent-elements_3167808?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "code platform": "https://leetcode.com/problems/top-k-frequent-elements/",
+        "video tutorial": ""
+      }
+    ]
+  },
+  {
+    "name": "Stack and Queue",
+    "quesList": [
+      {
+        "title": "Implement Stack Using Arrays",
+        "article": "https://www.codingninjas.com/codestudio/problems/stack-implementation-using-array_3210209",
+        "code platform": "",
+        "video tutorial": "https://www.youtube.com/watch?v=GYptUgnIM_I&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=68"
+      },
+      {
+        "title": "Implement Queue Using Arrays",
+        "article": "https://bit.ly/3KbIjIW",
+        "code platform": "",
+        "video tutorial": "https://www.youtube.com/watch?v=M6GnoUDpqEE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=72"
+      },
+      {
+        "title": "Implement Stack using Queue (using single queue)",
+        "article": "https://bit.ly/3reLgQs",
+        "code platform": "https://leetcode.com/problems/implement-stack-using-queues/",
+        "video tutorial": "https://www.youtube.com/watch?v=jDZQKzEtbYQ&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=74"
+      },
+      {
+        "title": "Implement Queue using Stack (0(1) amortized method)",
+        "article": "https://bit.ly/3reLeIk",
+        "code platform": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "video tutorial": "https://www.youtube.com/watch?v=3Et9MrMc02A&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=75"
+      },
+      {
+        "title": "Check for balanced parentheses",
+        "article": "https://bit.ly/3nr1RiO",
+        "code platform": "https://leetcode.com/problems/valid-parentheses/",
+        "video tutorial": "https://www.youtube.com/watch?v=wkDfsKijrZ8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=74"
+      },
+      {
+        "title": "Next Greater Element",
+        "article": "https://bit.ly/3qyCjCF",
+        "code platform": "https://leetcode.com/problems/next-greater-element-ii/description/",
+        "video tutorial": "https://www.youtube.com/watch?v=Du881K7Jtk8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=75"
+      },
+      {
+        "title": "Sort a Stack",
+        "article": "https://bit.ly/3nptF7k",
+        "code platform": "",
+        "video tutorial": ""
+      }
+    ]
+  },
+  {
+    "name": "Stack and Queue Part-II",
+    "quesList": [
+      {
+        "title": "Next Smaller Element",
+        "article": "https://bit.ly/3K6WVtb",
+        "code platform": "https://www.interviewbit.com/problems/nearest-smaller-element/",
+        "video tutorial": ""
+      },
+      {
+        "title": "LRU cache (IMPORTANT)",
+        "article": "https://bit.ly/3K7Cs7I",
+        "code platform": "https://leetcode.com/problems/lru-cache/",
+        "video tutorial": "https://www.youtube.com/watch?v=xDEuM5qa0zg&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=77"
+      },
+      {
+        "title": "LFU Cache",
+        "article": "https://bit.ly/3noxuK0",
+        "code platform": "https://leetcode.com/problems/lfu-cache/",
+        "video tutorial": "https://www.youtube.com/watch?v=0PSB9y8ehbk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=79"
+      },
+      {
+        "title": "Largest rectangle in a histogram",
+        "article": "https://bit.ly/3qpxbR9",
+        "code platform": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+        "video tutorial": "https://www.youtube.com/watch?v=X0X6G-eWgQ8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=81"
+      },
+      {
+        "title": "Sliding Window maximum",
+        "article": "https://bit.ly/3GmTkoC",
+        "code platform": "https://leetcode.com/problems/sliding-window-maximum/",
+        "video tutorial": "https://www.youtube.com/watch?v=CZQGRp93K4k&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=83"
+      },
+      {
+        "title": "Implement Min Stack",
+        "article": "https://www.codingninjas.com/codestudio/problems/min-stack_3843991?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "code platform": "https://leetcode.com/problems/min-stack/",
+        "video tutorial": "https://youtu.be/V09NfaGf2ao"
+      },
+      {
+        "title": "Rotten Orange (Using BFS)",
+        "article": "https://bit.ly/33zH0TC",
+        "code platform": "https://leetcode.com/problems/rotting-oranges/",
+        "video tutorial": "https://www.youtube.com/watch?v=yf3oUhkvqA0"
+      },
+      {
+        "title": "Stock Span Problem",
+        "article": "https://bit.ly/3GvBtMk",
+        "code platform": "https://leetcode.com/problems/online-stock-span/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Find the maximum of minimums of every window size",
+        "article": "https://bit.ly/3zUYLZz",
+        "code platform": "",
+        "video tutorial": ""
+      },
+      {
+        "title": "The Celebrity Problem",
+        "article": "https://bit.ly/3GuImxi",
+        "code platform": "https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/",
+        "video tutorial": ""
+      }
+    ]
+  },
+  {
+    "name": "String",
+    "quesList": [
+      {
+        "title": "Reverse Words in a String",
+        "article": "https://bit.ly/3FmKc1X",
+        "code platform": "https://leetcode.com/problems/reverse-words-in-a-string/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Longest Palindrome in a string",
+        "article": "https://bit.ly/3Grdrlv",
+        "code platform": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Roman Number to Integer and vice versa",
+        "article": "https://bit.ly/3rkGuBb",
+        "code platform": "https://leetcode.com/problems/roman-to-integer/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Implement ATOI/STRSTR",
+        "article": "https://bit.ly/3zXpYeb",
+        "code platform": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Longest Common Prefix",
+        "article": "https://bit.ly/3GlNN1D",
+        "code platform": "https://leetcode.com/problems/longest-common-prefix/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Rabin Karp",
+        "article": "https://bit.ly/3FvnLaN",
+        "code platform": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
+        "video tutorial": ""
+      }
+    ]
+  },
+  {
+    "name": "String Part-II",
+    "quesList": [
+      {
+        "title": "Z-Function",
+        "article": "https://bit.ly/3qs24UM",
+        "code platform": "https://leetcode.com/problems/implement-strstr/",
+        "video tutorial": ""
+      },
+      {
+        "title": "KMP algo / LPS(pi) array",
+        "article": "https://bit.ly/31VF1s6",
+        "code platform": "https://leetcode.com/problems/implement-strstr/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Minimum characters needed to be inserted in the beginning to make it palindromic",
+        "article": "https://bit.ly/34RE855",
+        "code platform": "https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Check for Anagrams",
+        "article": "https://bit.ly/3K6weoJ",
+        "code platform": "https://leetcode.com/problems/valid-anagram/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Count and Say",
+        "article": "https://bit.ly/3K8Uwyi",
+        "code platform": "https://leetcode.com/problems/count-and-say/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Compare version numbers",
+        "article": "https://bit.ly/3GwYuys",
+        "code platform": "https://leetcode.com/problems/compare-version-numbers/",
+        "video tutorial": ""
+      }
+    ]
+  },
+  {
+    "name": "Binary Tree",
+    "quesList": [
+      {
+        "title": "Inorder Traversal",
+        "article": "",
+        "code platform": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "video tutorial": "https://www.youtube.com/watch?v=Z_NEgBgbRVI&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=7"
+      },
+      {
+        "title": "Preorder Traversal",
+        "article": "",
+        "code platform": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "video tutorial": "https://youtu.be/RlUu72JrOCQ"
+      },
+      {
+        "title": "Postorder Traversal",
+        "article": "",
+        "code platform": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "video tutorial": "https://youtu.be/COQOU6klsBg"
+      },
+      {
+        "title": "Morris Inorder Traversal",
+        "article": "",
+        "code platform": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "video tutorial": "https://www.youtube.com/watch?v=80Zug6D1_r4&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=38"
+      },
+      {
+        "title": "Morris Preorder Traversal",
+        "article": "",
+        "code platform": "",
+        "video tutorial": "https://youtu.be/80Zug6D1_r4"
+      },
+      {
+        "title": "LeftView Of Binary Tree",
+        "article": "https://bit.ly/3GtxyQa",
+        "code platform": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+        "video tutorial": "https://www.youtube.com/watch?v=KV4mRzTjlAk&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=25"
+      },
+      {
+        "title": "Bottom View of Binary Tree",
+        "article": "https://bit.ly/3trqFLq",
+        "code platform": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+        "video tutorial": "https://www.youtube.com/watch?v=0FtVY6I4pB8&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=24"
+      },
+      {
+        "title": "Top View of Binary Tree",
+        "article": "https://bit.ly/3Gs76WV",
+        "code platform": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+        "video tutorial": "https://www.youtube.com/watch?v=Et9OCDNvJ78&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=23"
+      },
+      {
+        "title": "Preorder inorder postorder in a single traversal",
+        "article": "https://bit.ly/3rlXpTX",
+        "code platform": "",
+        "video tutorial": "https://youtu.be/ySp2epYvgTE"
+      },
+      {
+        "title": "Vertical order traversal",
+        "article": "https://bit.ly/3KaM41v",
+        "code platform": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+        "video tutorial": "https://youtu.be/q_a6lpbKJdw"
+      },
+      {
+        "title": "Root to node path in a Binary Tree",
+        "article": "",
+        "code platform": "https://www.interviewbit.com/problems/path-to-given-node/",
+        "video tutorial": "https://youtu.be/fmflMqVOC7k"
+      },
+      {
+        "title": "Max width of a Binary Tree",
+        "article": "https://bit.ly/3rm014d",
+        "code platform": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+        "video tutorial": "https://youtu.be/ZbybYvcVLks"
+      }
+    ]
+  },
+  {
+    "name": "Binary Tree part-II",
+    "quesList": [
+      {
+        "title": "Level order Traversal / Level order traversal in spiral form",
+        "article": "https://bit.ly/3zVtSnX",
+        "code platform": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "video tutorial": "https://youtu.be/EoAsWbO7sqg"
+      },
+      {
+        "title": "Height of a Binary Tree",
+        "article": "https://bit.ly/3qoOEco",
+        "code platform": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "video tutorial": "https://youtu.be/eD3tmO66aBA"
+      },
+      {
+        "title": "Diameter of Binary Tree",
+        "article": "https://bit.ly/3I3O1uD",
+        "code platform": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "video tutorial": "https://youtu.be/Rezetez59Nk"
+      },
+      {
+        "title": "Check if the Binary tree is height-balanced or not",
+        "article": "https://bit.ly/3fqsvnA",
+        "code platform": "https://leetcode.com/problems/balanced-binary-tree/",
+        "video tutorial": "https://youtu.be/Yt50Jfbd8Po"
+      },
+      {
+        "title": "LCA in Binary Tree",
+        "article": "https://bit.ly/3tqcRko",
+        "code platform": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+        "video tutorial": "https://youtu.be/_-QHfMDde90"
+      },
+      {
+        "title": "Check if two trees are identical or not",
+        "article": "https://bit.ly/3GuQYnE",
+        "code platform": "https://leetcode.com/problems/same-tree/",
+        "video tutorial": "https://youtu.be/BhuvF_-PWS0"
+      },
+      {
+        "title": "Zig Zag Traversal of Binary Tree",
+        "article": "https://bit.ly/3GrS3g7",
+        "code platform": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+        "video tutorial": "https://youtu.be/3OXWEdlIGl4"
+      },
+      {
+        "title": "Boundary Traversal of Binary Tree",
+        "article": "https://bit.ly/3GxQ6yH",
+        "code platform": "https://leetcode.com/problems/boundary-of-binary-tree/#",
+        "video tutorial": "https://youtu.be/0ca1nvR0be4"
+      }
+    ]
+  },
+  {
+    "name": "Binary Tree part-III",
+    "quesList": [
+      {
+        "title": "Maximum path sum",
+        "article": "https://bit.ly/3rkQUR4",
+        "code platform": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+        "video tutorial": "https://youtu.be/WszrfSwMz58"
+      },
+      {
+        "title": "Construct Binary Tree from inorder and preorder",
+        "article": "https://bit.ly/3fqOif3",
+        "code platform": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "video tutorial": "https://youtu.be/aZNaLrVebKQ"
+      },
+      {
+        "title": "Construct Binary Tree from Inorder and Postorder",
+        "article": "https://bit.ly/3qrzumM",
+        "code platform": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+        "video tutorial": "https://youtu.be/LgLRTaEMRVc"
+      },
+      {
+        "title": "Symmetric Binary Tree",
+        "article": "https://bit.ly/3GItN9P",
+        "code platform": "https://leetcode.com/problems/symmetric-tree/",
+        "video tutorial": "https://youtu.be/nKggNAiEpBE"
+      },
+      {
+        "title": "Flatten Binary Tree to LinkedList",
+        "article": "https://bit.ly/3qA9uWt",
+        "code platform": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "video tutorial": "https://youtu.be/sWf7k1x9XR4"
+      },
+      {
+        "title": "Check if Binary Tree is the mirror of itself or not",
+        "article": "https://bit.ly/3nqSnnQ",
+        "code platform": "https://practice.geeksforgeeks.org/problems/mirror-tree/1",
+        "video tutorial": ""
+      },
+      {
+        "title": "Check for Children Sum Property",
+        "article": "https://bit.ly/33yExIQ",
+        "code platform": "",
+        "video tutorial": "https://youtu.be/fnmisPM6cVo"
+      }
+    ]
+  },
+  {
+    "name": "Binary Search Tree",
+    "quesList": [
+      {
+        "title": "Populate Next Right pointers of Tree",
+        "article": "https://bit.ly/33Bm8uX",
+        "code platform": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Search given Key in BST",
+        "article": "https://bit.ly/3Ft26jR",
+        "code platform": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+        "video tutorial": "https://youtu.be/KcNt6v_56cc"
+      },
+      {
+        "title": "Construct BST from given keys",
+        "article": "https://bit.ly/3qr5I1t",
+        "code platform": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Construct BST from preorder traversal",
+        "article": "https://bit.ly/3Fr7GTQ",
+        "code platform": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+        "video tutorial": "https://youtu.be/UmJT3j26t1I"
+      },
+      {
+        "title": "Check is a BT is BST or not",
+        "article": "https://bit.ly/3nmKek7",
+        "code platform": "https://leetcode.com/problems/validate-binary-search-tree/",
+        "video tutorial": "https://youtu.be/f-sj7I5oXEI"
+      },
+      {
+        "title": "Find LCA of two nodes in BST",
+        "article": "https://bit.ly/3qqoaXM",
+        "code platform": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+        "video tutorial": "https://youtu.be/cX_kPV_foZc"
+      },
+      {
+        "title": "Find the inorder predecessor/successor of a given Key in BST.",
+        "article": "https://bit.ly/3A0hm6l",
+        "code platform": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
+        "video tutorial": "https://youtu.be/SXKAD2svfmI"
+      }
+    ]
+  },
+  {
+    "name": "Binary Search Tree Part-II",
+    "quesList": [
+      {
+        "title": "Floor in a BST",
+        "article": "https://bit.ly/3nsqdbY",
+        "code platform": "https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos",
+        "video tutorial": "https://www.youtube.com/watch?v=xm_W1ub-K-w&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=43"
+      },
+      {
+        "title": "Ceil in a BST",
+        "article": "https://bit.ly/33b9enW",
+        "code platform": "https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos",
+        "video tutorial": "https://www.youtube.com/watch?v=KSsk8AhdOZA&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=42"
+      },
+      {
+        "title": "Find K-th smallest element in BST",
+        "article": "https://bit.ly/3rf0HrP",
+        "code platform": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+        "video tutorial": "https://youtu.be/9TJYWh0adfk"
+      },
+      {
+        "title": "Find K-th largest element in BST",
+        "article": "https://bit.ly/31Yjtet",
+        "code platform": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+        "video tutorial": "https://youtu.be/9TJYWh0adfk"
+      },
+      {
+        "title": "Find a pair with a given sum in BST",
+        "article": "https://bit.ly/3FvDAOO",
+        "code platform": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+        "video tutorial": "https://youtu.be/ssL3sHwPeb4"
+      },
+      {
+        "title": "BST iterator",
+        "article": "https://bit.ly/3FsH5FC",
+        "code platform": "https://leetcode.com/problems/binary-search-tree-iterator/",
+        "video tutorial": "https://youtu.be/D2jMcmxU4bs"
+      },
+      {
+        "title": "Size of the largest BST in a Binary Tree",
+        "article": "https://bit.ly/3fn6h5V",
+        "code platform": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+        "video tutorial": "https://youtu.be/X0oXMdtUDwo"
+      },
+      {
+        "title": "Serialize and deserialize Binary Tree",
+        "article": "https://bit.ly/3qr6pYD",
+        "code platform": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+        "video tutorial": "https://www.youtube.com/watch?v=-YbXySKJsX8&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=37"
+      }
+    ]
+  },
+  {
+    "name": "Binary Trees[Miscellaneous]",
+    "quesList": [
+      {
+        "title": "Binary Tree to Double Linked List",
+        "article": "https://bit.ly/3HVnGz0",
+        "code platform": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "video tutorial": "https://www.youtube.com/watch?v=sWf7k1x9XR4&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=39"
+      },
+      {
+        "title": "Find median in a stream of running integers.",
+        "article": "https://bit.ly/3rkTB58",
+        "code platform": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "video tutorial": ""
+      },
+      {
+        "title": "K-th largest element in a stream.",
+        "article": "https://bit.ly/3KdiUPp",
+        "code platform": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Distinct numbers in Window.",
+        "article": "https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/bit.ly/3zYWpcb",
+        "code platform": "https://www.interviewbit.com/problems/distinct-numbers-in-window/",
+        "video tutorial": ""
+      },
+      {
+        "title": "K-th largest element in an unsorted array.",
+        "article": "https://bit.ly/3GvQttz",
+        "code platform": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Flood-fill Algorithm",
+        "article": "https://bit.ly/3Gv1Th5",
+        "code platform": "https://leetcode.com/problems/flood-fill/",
+        "video tutorial": ""
+      }
+    ]
+  },
+  {
+    "name": "Graph",
+    "quesList": [
+      {
+        "title": "Clone a graph (Not that easy as it looks)",
+        "article": "https://bit.ly/33BcVmE",
+        "code platform": "https://leetcode.com/problems/clone-graph/",
+        "video tutorial": ""
+      },
+      {
+        "title": "DFS",
+        "article": "https://bit.ly/33BcXeg",
+        "code platform": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
+        "video tutorial": "https://www.youtube.com/watch?v=uDWljP2PGmU&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=7"
+      },
+      {
+        "title": "BFS",
+        "article": "https://bit.ly/3rgb26U",
+        "code platform": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+        "video tutorial": "https://www.youtube.com/watch?v=UeE67iCK2lQ&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=6"
+      },
+      {
+        "title": "Detect A cycle in Undirected Graph using BFS",
+        "article": "https://bit.ly/3npFdrn",
+        "code platform": "https://leetcode.com/problems/course-schedule/",
+        "video tutorial": "https://www.youtube.com/watch?v=A8ko93TyOns&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=8"
+      },
+      {
+        "title": "Detect A cycle in Undirected Graph using DFS",
+        "article": "https://bit.ly/3npFdrn",
+        "code platform": "https://leetcode.com/problems/course-schedule/",
+        "video tutorial": "https://www.youtube.com/watch?v=Y9NFqI6Pzd4&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=9"
+      },
+      {
+        "title": "Detect A cycle in a Directed Graph using DFS",
+        "article": "https://bit.ly/3FrzaZp",
+        "code platform": "https://leetcode.com/problems/course-schedule/",
+        "video tutorial": "https://www.youtube.com/watch?v=uzVUw90ZFIg&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=12"
+      },
+      {
+        "title": "Detect A cycle in a Directed Graph using BFS",
+        "article": "https://bit.ly/3FrzaZp",
+        "code platform": "https://leetcode.com/problems/course-schedule/",
+        "video tutorial": "https://www.youtube.com/watch?v=V6GxfKDyLBM&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=15"
+      },
+      {
+        "title": "Topological Sort BFS",
+        "article": "https://bit.ly/33bapUo",
+        "code platform": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+        "video tutorial": "https://www.youtube.com/watch?v=rZv_jHZva34&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=14"
+      },
+      {
+        "title": "Topological Sort DFS",
+        "article": "https://bit.ly/33bapUo",
+        "code platform": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+        "video tutorial": "https://www.youtube.com/watch?v=Yh6EFazXipA&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=13"
+      },
+      {
+        "title": "Number of islands(Do in Grid and Graph Both)",
+        "article": "https://bit.ly/3KaSCND",
+        "code platform": "https://leetcode.com/problems/number-of-islands/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Bipartite Check using BFS",
+        "article": "https://bit.ly/3tps98W",
+        "code platform": "https://leetcode.com/problems/is-graph-bipartite/",
+        "video tutorial": "https://www.youtube.com/watch?v=nbgaEu-pvkU&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=10"
+      },
+      {
+        "title": "Bipartite Check using DFS",
+        "article": "https://bit.ly/3tps98W",
+        "code platform": "https://leetcode.com/problems/is-graph-bipartite/",
+        "video tutorial": "https://www.youtube.com/watch?v=uC884ske2uQ&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=11"
+      }
+    ]
+  },
+  {
+    "name": "Graph Part-II",
+    "quesList": [
+      {
+        "title": "Strongly Connected Component(using KosaRaju's algo)",
+        "article": "https://bit.ly/3twUKJP",
+        "code platform": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on",
+        "video tutorial": "https://www.youtube.com/watch?v=V8qIqJxCioo&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=27"
+      },
+      {
+        "title": "Dijkstra's Algorithm",
+        "article": "https://bit.ly/3qrEHLm",
+        "code platform": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+        "video tutorial": "https://www.youtube.com/watch?v=jbhuqIASjoM&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=18"
+      },
+      {
+        "title": "Bellman-Ford Algo",
+        "article": "https://bit.ly/3GwAf3A",
+        "code platform": "https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0/?fbclid=IwAR2_lL0T84DnciLyzMTQuVTMBOi82nTWNLuXjUgahnrtBgkphKiYk6xcyJU",
+        "video tutorial": "https://www.youtube.com/watch?v=75yC1vbS8S8&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=28"
+      },
+      {
+        "title": "Floyd Warshall Algorithm",
+        "article": "https://bit.ly/3Kb41Ny",
+        "code platform": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+        "video tutorial": ""
+      },
+      {
+        "title": "MST using Prim's Algo",
+        "article": "https://bit.ly/3I5Ktbi",
+        "code platform": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+        "video tutorial": "https://www.youtube.com/watch?v=HnD676J56ak&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=20"
+      },
+      {
+        "title": "MST using Kruskal's Algo",
+        "article": "https://bit.ly/3I1VqL9",
+        "code platform": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+        "video tutorial": "https://www.youtube.com/watch?v=1KRmCzBl_mQ&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=24"
+      }
+    ]
+  },
+  {
+    "name": "Dynamic Programming",
+    "quesList": [
+      {
+        "title": "Max Product Subarray",
+        "article": "https://bit.ly/3fqz6OS",
+        "code platform": "https://leetcode.com/problems/maximum-product-subarray/",
+        "video tutorial": ""
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "article": "https://bit.ly/3GuWGpA",
+        "code platform": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "video tutorial": "https://youtu.be/ekcwMsSIzVc"
+      },
+      {
+        "title": "Longest Common Subsequence",
+        "article": "https://bit.ly/3raZbqM",
+        "code platform": "https://leetcode.com/problems/longest-common-subsequence/",
+        "video tutorial": "https://youtu.be/NPZn9jBrX8U"
+      },
+      {
+        "title": "0-1 Knapsack",
+        "article": "https://bit.ly/3FvHbMO",
+        "code platform": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1",
+        "video tutorial": "https://youtu.be/GqOmJHQZivw"
+      },
+      {
+        "title": "Edit Distance",
+        "article": "https://bit.ly/3qpUHgE",
+        "code platform": "https://leetcode.com/problems/edit-distance/",
+        "video tutorial": "https://youtu.be/fJaKO8FbDdo"
+      },
+      {
+        "title": "Maximum sum increasing subsequence",
+        "article": "https://bit.ly/3tqiS0s",
+        "code platform": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+        "video tutorial": ""
+      },
+      {
+        "title": "Matrix Chain Multiplication",
+        "article": "https://bit.ly/3qqX56T",
+        "code platform": "https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
+        "video tutorial": "https://youtu.be/vRVfmbCFW7Y"
+      }
+    ]
+  },
+  {
+    "name": "Dynamic Programming Part-II",
+    "quesList": [
+      {
+        "title": "Minimum sum path in the matrix, (count paths and similar type do, also backtrack to find the Minimum path)",
+        "article": "https://bit.ly/3zWJEin",
+        "code platform": "https://leetcode.com/problems/minimum-path-sum/",
+        "video tutorial": "https://youtu.be/_rgTlyky1uQ"
+      },
+      {
+        "title": "Coin change",
+        "article": "https://bit.ly/3GwBrnA",
+        "code platform": "https://leetcode.com/problems/coin-change/",
+        "video tutorial": "https://youtu.be/HgyouUi11zk"
+      },
+      {
+        "title": "Subset Sum",
+        "article": "https://bit.ly/3rjUdb7",
+        "code platform": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "video tutorial": "https://www.youtube.com/watch?v=fWX9xDmIzRI"
+      },
+      {
+        "title": "Rod Cutting",
+        "article": "https://bit.ly/3GuIsoS",
+        "code platform": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+        "video tutorial": "https://youtu.be/mO8XpGoJwuo"
+      },
+      {
+        "title": "Egg Dropping",
+        "article": "https://bit.ly/3A6id5O",
+        "code platform": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1",
+        "video tutorial": ""
+      },
+      {
+        "title": "Word Break",
+        "article": "https://bit.ly/3npqs7P",
+        "code platform": "https://practice.geeksforgeeks.org/problems/word-break1352/1",
+        "video tutorial": ""
+      },
+      {
+        "title": "Palindrome Partitioning (MCM Variation)",
+        "article": "https://bit.ly/3tq9MRn",
+        "code platform": "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
+        "video tutorial": "https://youtu.be/_H8V5hJUGd0"
+      },
+      {
+        "title": "Maximum profit in Job scheduling",
+        "article": "https://bit.ly/34FoY2C",
+        "code platform": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+        "video tutorial": ""
+      }
+    ]
+  },
+  {
+    "name": "Trie",
+    "quesList": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "article": "https://bit.ly/33wIn5x",
+        "code platform": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "video tutorial": "https://www.youtube.com/watch?v=dBGUmUQhjaM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp"
+      },
+      {
+        "title": "Implement Trie - 2 (Prefix Tree)",
+        "article": "https://bit.ly/3I8Q9l7",
+        "code platform": "https://bit.ly/3qwT4OL",
+        "video tutorial": "https://www.youtube.com/watch?v=K5pcpkEMCN0&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=2"
+      },
+      {
+        "title": "Longest String with All Prefixes",
+        "article": "https://bit.ly/3qrU6vb",
+        "code platform": "https://bit.ly/3n3kedU",
+        "video tutorial": "https://www.youtube.com/watch?v=AWnBa91lThI&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=3"
+      },
+      {
+        "title": "Number of Distinct Substrings in a String",
+        "article": "https://bit.ly/3zVV1XD",
+        "code platform": "https://bit.ly/3ocRQW0",
+        "video tutorial": "https://www.youtube.com/watch?v=RV0QeTyHZxo&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=4"
+      },
+      {
+        "title": "Power Set (this is very important)",
+        "article": "https://bit.ly/3fmd28k",
+        "code platform": "https://practice.geeksforgeeks.org/problems/power-set4302/1#",
+        "video tutorial": "https://www.youtube.com/watch?v=b7AYbpM5YrE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=67"
+      },
+      {
+        "title": "Maximum XOR of two numbers in an array",
+        "article": "https://bit.ly/3rjEYis",
+        "code platform": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+        "video tutorial": "https://www.youtube.com/watch?v=EIhAwfHubE8&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=6"
+      },
+      {
+        "title": "Maximum XOR With an Element From Array",
+        "article": "https://bit.ly/3KbHhN4",
+        "code platform": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+        "video tutorial": "https://www.youtube.com/watch?v=Q8LhG9Pi5KM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=7"
+      }
+    ]
+  }
+]
